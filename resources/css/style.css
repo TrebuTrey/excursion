@@ -1,14 +1,30 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
+    color: white;
 }
 
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
     font-size: 3.125em;
-    color: white;
-    text-align: center;
+}
+
+h2 {
+    font-size: 2.625em;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 1.3625em;
+    color: gray;
+}
+
+.download {
+    font-size: 1em;
+    color: aquamarine;
+    text-decoration: underline;
 }
