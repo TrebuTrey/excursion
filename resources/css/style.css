@@ -28,3 +28,12 @@ h3 {
     color: aquamarine;
     text-decoration: underline;
 }
+
+#phone-logo {
+    padding: 1em 0;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
